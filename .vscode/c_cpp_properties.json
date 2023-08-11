@@ -1,0 +1,22 @@
+{
+    "configurations": [
+      {
+        "name": "Win32",
+        "includePath": [
+          "${workspaceFolder}/**",
+          "C:/Users/labfa/OneDrive/Área de Trabalho/OBR2023" // Adicione este caminho ao includePath
+        ],
+        "defines": [],
+        "intelliSenseMode": "gcc-x64",
+        "browse": {
+          "path": [
+            "${workspaceFolder}/**"
+          ],
+          "limitSymbolsToIncludedHeaders": true,
+          "databaseFilename": ""
+        }
+      }
+    ],
+    "version": 4
+  }
+  
